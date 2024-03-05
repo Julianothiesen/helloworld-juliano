@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://solana.com">
-    <img alt="Solana" src="https://i.imgur.com/uBVzyX3.png" width="250" />
-  </a>
-</p>
-
-# Hello world on Solana
-
-This hello world guide has moved to the [main Solana documentation](https://docs.solana.com/getstarted/rust).
+# https://tea.xyz/what-is-this-file
+---
+version 1.0.1
+codeOwners: '0x18e4F22f9fBebA552B132a5A6EFfcEdA9cB2254b'
+quorum: 1 
